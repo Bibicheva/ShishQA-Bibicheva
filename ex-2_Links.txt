@@ -1,0 +1,4 @@
+https://app.everyqa.io/overview/project/51cc7028-45d5-11eb-a6b2-d00d7cc42edb
+
+http://89.223.126.182:8081/search/Reported%20by%20me-2?q=project:%20CALCULATOR
+
